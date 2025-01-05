@@ -1,0 +1,9 @@
+{
+  "name": "youtube-playlist-finder",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A script to retrieve the YouTube playlist for a video",
+  "main": "index.js",
+  "author": "Abdennour Zahaf",
+  "license": "ISC"
+}
